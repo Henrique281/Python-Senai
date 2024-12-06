@@ -1,0 +1,6 @@
+print("Hello, World!")
+print("Senai")
+print("ueeepa!!!")
+print("Henrique freitas")
+print("aula 1")
+print("Nurap")
